@@ -1,8 +1,8 @@
 {
-    "name": "free-agario-bots",
+    "name": "Alexis-New-Actualizacion",
     "version": "1.0.0",
-    "description": "Free open source agar.io bots",
-    "author": "Nel",
+    "description": "Alexis-New-Actualizacion",
+    "author": "Alexis",
     "scripts": {
         "start": "node index.js"
     },
