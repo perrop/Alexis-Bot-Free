@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Credits: Turbo - ターボ#2665 (https://github.com/TurboCheetah)
+# Credits: [AA]Alexis_X#5882
 
 GREEN='\e[92m'
 NC='\e[0m'
